@@ -12,9 +12,7 @@
 - Android ⚡ Flutter ⚡ Java ⚡ Kotlin ⚡ Dart ⚡ Git ⚡ Github ⚡ Postman
 
 
+
 💻 Active Learning, 🤝 Teamwork, 👨‍ Problem Solving
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shamxali&layout=compact&hide=html" alt="shamxali" /></p>
 
 
