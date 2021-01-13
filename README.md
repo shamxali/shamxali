@@ -1,7 +1,5 @@
 ### Hello👋, I'm Shams 🙋‍♂️
 
-<h3 align="center">A self-taught programmer and born at very little age😜</h3>
-
 - 🔭 Currently working on Flutter, Android(Kotlin, Java)
 - 🌱 Getting better at Application UI and coding patterns.
 - 👯 Looking to collaborate on Android & Flutter Projects
@@ -9,7 +7,6 @@
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/shamsalii/), [Github](https://github.com/shamxali), [Facebook](https://facebook.com/shamsali0404), 
 - ⚡ Fun fact I love to play Badminton and Chai over coffee.
 - 😄 Pronouns: He/him
-
 
 ### 🔭 Tools & Technologies
 - Android ⚡ Flutter ⚡ Java ⚡ Kotlin ⚡ Dart ⚡ Git ⚡ Github ⚡ Postman
