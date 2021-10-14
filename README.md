@@ -11,10 +11,11 @@
 ### 🔭 Tools & Technologies
 - Android ⚡ Flutter ⚡ Java ⚡ Kotlin ⚡ Dart ⚡ Git ⚡ Github ⚡ Postman
 
-<img align="right" alt="GIF" src="code.gif" width="450" height="280" />
-
-
 
 💻 Active Learning, 🤝 Teamwork, 👨‍ Problem Solving
+
+
+
+<img align="center" alt="GIF" src="code.gif" width="450" height="280" />
 
 
