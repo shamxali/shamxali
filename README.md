@@ -1,6 +1,6 @@
 ### Hello👋, I'm Shams 🙋‍♂️
 
-<img align="center" alt="GIF" src="code.gif" width="400" height="250" />
+<img align="right" alt="GIF" src="code.gif" width="400" height="250" />
 
 - 🔭 Currently working on Flutter, Android(Kotlin, Java)
 - 🌱 Getting better at Application UI and coding patterns.
