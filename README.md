@@ -6,11 +6,11 @@
 - 🌱 Getting better at architecture and design patterns
 - 👯 Looking to collaborate on Flutter projects
 - 💬 Ask me about Flutter and Dart
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/shamsalii/), [Facebook](https://facebook.com/shamsali0404), 
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/shamsalii/)
 - 😄 Pronouns: He/Him
 
 ### 🔭 Tools & Technologies
-- Flutter ⚡ Dart ⚡ Git ⚡ Android Studio ⚡ Xcode ⚡ Figma ⚡ Adobe XD ⚡ Postman
+💙 Flutter 📌 Dart ⚡ Git 
 
 
 💻 Active Learning, 🤝 Teamwork, 👨‍ Problem Solving
